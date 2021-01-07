@@ -1,0 +1,36 @@
+body{
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+div{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+ul, li{
+    display: inline;
+    list-style-type: none;
+    padding: 10px 5px 5px 0px;
+}
+
+h1{
+    text-align: left;
+}
+
+article img{
+    width: 100%;
+}
+nav{
+    text-align: right;
+
+    padding: 50px 25px 25px 0px;
+}
+a{
+    text-decoration: none;
+    margin-right: 5px;
+    color: black;
+}
+hr{
+    border-style: none;
+    border-bottom: 5px dotted ;
+}
+
